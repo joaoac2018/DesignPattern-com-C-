@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ohB3Kr7T6moMFWjcbIYnbnkHu3rH5oo7c43vHmaJppojj82Cpkp+tGqohHTxCCSiv3x8Vtt7voQa9/cxLwqfsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaop\\OneDrive\\Área de Trabalho\\DecolaDEVAvanade\\Aplicando design patterns na prática com C#\\DesignPatternSamples-main\\src\\Workbench.IFormatter.Extensions\\Workbench.IFormatter.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

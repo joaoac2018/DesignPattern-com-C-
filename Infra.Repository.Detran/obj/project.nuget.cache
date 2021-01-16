@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "9/TgUgTpd5+wj19hcW95AlziN+TIzhTGEMpwihn0ffBlxViGh6Tac0pYarFyEL7aj2ruo8XXr3CNNBt5hKTnpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaop\\OneDrive\\Área de Trabalho\\DecolaDEVAvanade\\Aplicando design patterns na prática com C#\\DesignPatternSamples-main\\src\\Infra.Repository.Detran\\Infra.Repository.Detran.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.9\\microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.9\\microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.9\\microsoft.extensions.configuration.binder.3.1.9.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.9\\microsoft.extensions.dependencyinjection.3.1.9.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.logging\\3.1.9\\microsoft.extensions.logging.3.1.9.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.options\\3.1.9\\microsoft.extensions.options.3.1.9.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

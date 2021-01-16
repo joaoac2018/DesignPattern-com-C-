@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VdSCK9sYSynkHlWQc/9fEVy9RugdDoVQOyRu8HR/EMwlfbKNeqDCP1Db4dw3uhSnPGwfY1TRQtstIms8XENFFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaop\\OneDrive\\Área de Trabalho\\DecolaDEVAvanade\\Aplicando design patterns na prática com C#\\DesignPatternSamples-main\\src\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.9\\microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
